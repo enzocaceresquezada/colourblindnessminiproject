@@ -1,0 +1,151 @@
+Default Report
+Last Modified: 2022-03-27 05:33:40 MDT
+
+
+Q1 - In mijn maatschappij hebben witte mensen bepaalde voordelen vanwege hun huidskleur.
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,In mijn maatschappij hebben witte mensen bepaalde voordelen vanwege hun huidskleur.,1.00,6.00,4.34,1.57,2.46,277
+
+#,Answer,%,Count
+1,1 Helemaal niet mee eens,8.30%,23
+2,2,7.94%,22
+3,3,9.39%,26
+4,4,18.77%,52
+5,5,27.08%,75
+6,6 Helemaal mee eens,28.52%,79
+,Total,100%,277
+
+Q2 - Kleur en etniciteit zijn zeer belangrijk om te bepalen wie succesvol is en wie niet.
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Kleur en etniciteit zijn zeer belangrijk om te bepalen wie succesvol is en wie niet.,1.00,6.00,2.94,1.58,2.49,277
+
+#,Answer,%,Count
+1,1 Helemaal niet mee eens,26.71%,74
+2,2,16.97%,47
+3,3,16.61%,46
+4,4,21.30%,59
+5,5,12.27%,34
+6,6 Helemaal mee eens,6.14%,17
+,Total,100%,277
+
+Q6 - Kleur en etniciteit speelt een belangrijke rol in wie er naar de gevangenis wordt gestuurd.
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Kleur en etniciteit speelt een belangrijke rol in wie er naar de gevangenis wordt gestuurd.,1.00,6.00,3.74,1.53,2.34,277
+
+#,Answer,%,Count
+1,1 Helemaal niet mee eens,13.36%,37
+2,2,9.75%,27
+3,3,13.00%,36
+4,4,28.88%,80
+5,5,23.83%,66
+6,6 Helemaal mee eens,11.19%,31
+,Total,100%,277
+
+Q7 - Etnische minderheden hebben in mijn samenleving niet dezelfde kansen als witte mensen.
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Etnische minderheden hebben in mijn samenleving niet dezelfde kansen als witte mensen.,1.00,6.00,4.10,1.59,2.52,277
+
+#,Answer,%,Count
+1,1 Helemaal niet mee eens,10.11%,28
+2,2,10.11%,28
+3,3,9.03%,25
+4,4,22.38%,62
+5,5,27.08%,75
+6,6 Helemaal mee eens,21.30%,59
+,Total,100%,277
+
+"Q8 - Iedereen die hard werkt, van welke kleur en etnische afkomst ze ook zijn, heeft een gelijke kans om te slagen."
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,"Iedereen die hard werkt, van welke kleur en etnische afkomst ze ook zijn, heeft een gelijke kans om te slagen.",1.00,6.00,3.05,1.66,2.75,277
+
+#,Answer,%,Count
+1,1 Helemaal niet mee eens,18.05%,50
+2,2,29.96%,83
+3,3,18.05%,50
+4,4,11.19%,31
+5,5,8.66%,24
+6,6 Helemaal mee eens,14.08%,39
+,Total,100%,277
+
+Q9 - Witte mensen hebben meer schuld aan rassendiscriminatie dan etnische minderheden.
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Witte mensen hebben meer schuld aan rassendiscriminatie dan etnische minderheden.,1.00,6.00,3.20,1.67,2.79,277
+
+#,Answer,%,Count
+1,1 Helemaal niet mee eens,24.19%,67
+2,2,13.72%,38
+3,3,15.16%,42
+4,4,22.38%,62
+5,5,14.08%,39
+6,6 Helemaal mee eens,10.47%,29
+,Total,100%,277
+
+Q10 - Ik wou dat de mensen in deze maatschappij ophielden met zo geobsedeerd te zijn door kleur en etniciteit.
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Ik wou dat de mensen in deze maatschappij ophielden met zo geobsedeerd te zijn door kleur en etniciteit.,1.00,6.00,4.38,1.71,2.94,277
+
+#,Answer,%,Count
+1,1 Helemaal niet mee eens,7.58%,21
+2,2,12.64%,35
+3,3,10.47%,29
+4,4,13.72%,38
+5,5,14.44%,40
+6,6 Helemaal mee eens,41.16%,114
+,Total,100%,277
+
+Q11 - Mensen die zich bezighouden met kleur en etniciteit vergeten dat wij allen slechts mensen zijn.
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Mensen die zich bezighouden met kleur en etniciteit vergeten dat wij allen slechts mensen zijn.,1.00,6.00,4.32,1.74,3.01,277
+
+#,Answer,%,Count
+1,1 Helemaal niet mee eens,8.66%,24
+2,2,12.64%,35
+3,3,10.83%,30
+4,4,13.00%,36
+5,5,15.88%,44
+6,6 Helemaal mee eens,38.99%,108
+,Total,100%,277
+
+Q12 - Kleur en etnische etiketten op mensen plakken verhult het feit dat iedereen een uniek individu is.
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Kleur en etnische etiketten op mensen plakken verhult het feit dat iedereen een uniek individu is.,1.00,6.00,4.39,1.68,2.81,277
+
+#,Answer,%,Count
+1,1 Helemaal niet mee eens,8.30%,23
+2,2,9.75%,27
+3,3,13.00%,36
+4,4,9.39%,26
+5,5,23.10%,64
+6,6 Helemaal mee eens,36.46%,101
+,Total,100%,277
+
+Q13 - Kleur en etniciteit is een kunstmatig etiket dat mensen ervan weerhoudt vrij als individu te denken.
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Kleur en etniciteit is een kunstmatig etiket dat mensen ervan weerhoudt vrij als individu te denken.,1.00,6.00,3.77,1.76,3.10,277
+
+#,Answer,%,Count
+1,1 Helemaal niet mee eens,16.25%,45
+2,2,11.91%,33
+3,3,13.00%,36
+4,4,19.49%,54
+5,5,16.25%,45
+6,6 Helemaal mee eens,23.10%,64
+,Total,100%,277
+
+"Q5 - Politieke oriëntatieVan 1 tot 2, waarbij 1 staat voor links en centrum-links, en 2 voor centrum-rechts en rechts, waar situeert u zichzelf?"
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,"Politieke oriëntatieVan 1 tot 2, waarbij 1 staat voor links en centrum-links, en 2 voor centrum-rechts en rechts, waar situeert u zichzelf?",1.00,2.00,1.17,0.38,0.14,277
+
+#,Answer,%,Count
+1,1 - Links en centrum-links,82.67%,229
+2,2 - Centrum-rechts en rechts,17.33%,48
+,Total,100%,277
+
+Q4 - Kleur/etniciteit
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Kleur/etniciteit,1.00,2.00,1.11,0.31,0.10,277
+
+#,Answer,%,Count
+1,Wit/Blank,89.17%,247
+2,"Zwart, Inheems, Mensen van Kleur / Niet-wit",10.83%,30
+,Total,100%,277
